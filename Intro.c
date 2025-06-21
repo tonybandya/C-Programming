@@ -2,11 +2,9 @@
 
 int main() {
     // Write C code here
-    printf("My First Hello World!");
+    printf("Panther!");
     return 0;
 }
 
-//f() = 3 + 2
-//f()=5
 
 
